@@ -1,2 +1,4 @@
 # Design-Portfolio-Link
-https://drive.google.com/drive/folders/1M2rt1td1hCQAzNM9czFDdeFwScRpbrQc?usp=sharing
+## This Repository contains all my Design related projects from Cover arts, Posters, to motion graphic i did on power point
+
+[Click here]([http://example.com](https://drive.google.com/drive/folders/1M2rt1td1hCQAzNM9czFDdeFwScRpbrQc?usp=sharing) to see the portfolio
